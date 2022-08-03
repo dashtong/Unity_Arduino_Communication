@@ -6,3 +6,5 @@
 3. In Unity, Edit > Project Settings > Player > Other Settings > Configuration > Api Compatibility Level > .NET 4.x
 4. Now you can successfully declare SerialPort in the script.
 
+## Hardware setup
+![](https://i.imgur.com/Dgpa9My.jpg)
